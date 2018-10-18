@@ -10,5 +10,6 @@ module.exports = function() {
     return unique;
   }, []);
   
+  // console.log(reducedToUnique);
   // return reducedToUnique;
 }   

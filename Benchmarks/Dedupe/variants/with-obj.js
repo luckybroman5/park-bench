@@ -9,7 +9,7 @@ module.exports = function() {
     return unique;
   }, []);
 
-  console.log(reducedToUnique);
+  // console.log(reducedToUnique);
   
   // return reducedToUnique;
 }   
