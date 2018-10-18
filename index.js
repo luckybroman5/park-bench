@@ -5,4 +5,4 @@ const testRunner = require('./lib/TestRunner/TestRunner');
 
 // testRunner('Calibration', '/home/kade/code/park-bench/Benchmarks/Calibration'); 
 
-testRunner('Dedupe', '/home/kade/code/park-bench/Benchmarks/Dedupe');
+testRunner('Dedupe', `${process.cwd()}/Benchmarks/Dedupe`);
