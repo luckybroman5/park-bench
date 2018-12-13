@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "benchmark": "^2.1.4",
+    "fast-json-stringify": "^1.9.1",
     "microtime": "^2.1.8",
     "v8-profiler": "^5.7.0"
   }
